@@ -93,11 +93,11 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 <p align="Left">
   <img src="https://raw.githubusercontent.com/Dilip-Singh-dodiya/Dilip-Singh-dodiya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> 
 </p>
----
 
-# 🚀 Featured Projects
 
-## 🛒 E-Commerce Dashboard — Power BI
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Dashboard — Power BI
 
 An interactive **E-Commerce Business Intelligence Dashboard** designed to transform raw sales data into actionable business insights.
 
@@ -110,8 +110,6 @@ An interactive **E-Commerce Business Intelligence Dashboard** designed to transf
 - 📊 KPIs & Business Metrics
 - 📅 Time-Based Sales Analysis
 - 🎯 Interactive Filters & Visualizations
-
----
 
 ### 🧰 Technologies
 
