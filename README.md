@@ -38,29 +38,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 Yes — if you specifically want to **highlight the skill names themselves**, you can use HTML `<mark>` tags in your GitHub README.
 
-```
-## 🚀 Skills
-
-- <mark>Power BI</mark>
-- <mark>Microsoft Excel</mark>
-- <mark>SQL</mark>
-- <mark>Data Cleaning</mark>
-- <mark>Data Visualization & Dashboard Development</mark>
-- <mark>Business Intelligence Development</mark>
-```
-
 Or for a more compact and attractive style:
-
-```
-## 🚀 Skills & Expertise
-
-✨ <mark>Power BI</mark>
-📊 <mark>Microsoft Excel</mark>
-🗄️ <mark>SQL</mark>
-🧹 <mark>Data Cleaning</mark>
-📈 <mark>Data Visualization & Dashboard Development</mark>
-💼 <mark>Business Intelligence Development</mark>
-```
 
 ### If `<mark>` doesn't render on GitHub
 
@@ -75,7 +53,7 @@ GitHub's Markdown rendering can be inconsistent with HTML highlighting. A **badg
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ETL-orange)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Dashboards-purple)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Development-red)
-```
+
 
 If your goal is **highlighted text like a yellow marker**, I'd use `<mark>Power BI</mark>` first.
 
