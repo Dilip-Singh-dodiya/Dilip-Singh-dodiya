@@ -1,7 +1,7 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-## 📊 DATA ANALYST || POWER BI || SQL || EXCEL || PYTHON ( NUMPY , PANDAS , MATPLOTLIB )
+## 📊 DATA ANALYST | POWER BI | SQL | EXCEL | PYTHON ( NUMPY , PANDAS , MATPLOTLIB)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
