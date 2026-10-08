@@ -34,16 +34,6 @@ I enjoy working with data to discover trends, identify patterns, and create visu
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-**Data & BI Tools**
-
-Yes — if you specifically want to **highlight the skill names themselves**, you can use HTML `<mark>` tags in your GitHub README.
-
-Or for a more compact and attractive style:
-
-### If `<mark>` doesn't render on GitHub
-
-GitHub's Markdown rendering can be inconsistent with HTML highlighting. A **badge-style highlight** is more reliable:
-
 
 ## 🚀 Skills & Expertise
 
@@ -64,7 +54,7 @@ If your goal is **highlighted text like a yellow marker**, I'd use `<mark>Power 
 ### 💻 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,Excel,Power-BI" />
 </p>
 
 ---
