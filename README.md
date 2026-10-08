@@ -1,17 +1,16 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/DATA%20ANALYST-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" />
+<h3>
+  <img src="https://img.shields.io/badge/DATA%20ANALYST-1F6FEB?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/MATPLOTLIB-E76F51?style=flat-square" />
-</h1>
-
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
