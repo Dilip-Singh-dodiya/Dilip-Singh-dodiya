@@ -83,7 +83,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ---
 
-## 📊 Contribution Activity
+# 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Singh-dodiya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
@@ -91,7 +91,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dilip-Singh-dodiya/Dilip-Singh-dodiya/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
