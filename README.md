@@ -1,14 +1,16 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-## ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-1F6FEB)
-## ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811)
-## ![SQL](https://img.shields.io/badge/SQL-336791)
-## ![Excel](https://img.shields.io/badge/EXCEL-217346)
-## ![Python](https://img.shields.io/badge/PYTHON-3776AB)
-## ![NumPy](https://img.shields.io/badge/NUMPY-013243)
-## ![Pandas](https://img.shields.io/badge/PANDAS-150458)
-## ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-E76F51)
+<h3 align="center">
+  <img src="https://img.shields.io/badge/DATA%20ANALYST-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-E76F51?style=flat-square" />
+</h3>
 
 
 <p align="left">
