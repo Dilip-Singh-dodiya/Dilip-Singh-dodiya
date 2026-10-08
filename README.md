@@ -1,7 +1,7 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-<h3 align="center">
+<h1 align="center">
   <img src="https://img.shields.io/badge/DATA%20ANALYST-1F6FEB?style=flat-square" />
   <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" />
   <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" />
   <img src="https://img.shields.io/badge/MATPLOTLIB-E76F51?style=flat-square" />
-</h3>
+</h1>
 
 
 <p align="left">
