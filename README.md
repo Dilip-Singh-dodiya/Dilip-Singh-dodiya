@@ -106,7 +106,7 @@ An interactive **E-Commerce Business Intelligence Dashboard** designed to transf
 
 ---
 
-# 📌 More Projects
+## 📌 More Projects
 
 I'm continuously building new projects around:
 
@@ -119,11 +119,10 @@ I'm continuously building new projects around:
 
 > More real-world projects will be added soon.
 
----
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-```text
+text
 SQL
  ├── Advanced Queries
  ├── Joins
@@ -149,8 +148,22 @@ Microsoft Excel
  ├── Data Cleaning
  ├── Vlookupp
  ├── Xlookup
- └── Index-Match
-🤝 Connect With Me
+ └── Index-Match'''
+
+ 📊 GitHub Contribution Stats
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilip-Singh-dodiya&theme=tokyonight" />
+
+</p>
+
+## 🤝 Connect With Me
 <p align="left">
 
 <a href="https://github.com/Dilip-Singh-dodiya">
@@ -165,11 +178,5 @@ Microsoft Excel
 
 📧 Email: deepanshudodiya@gmail.com
 
-💡 Quote
+## 💡 Quote
 "Data is the new oil, but insights are the real value."
-
-📈 My GitHub Journey
-<p align="center">
-
-Building → Learning → Analyzing → Improving → Sharing
-</p>
