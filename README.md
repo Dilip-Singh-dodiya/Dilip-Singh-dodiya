@@ -41,7 +41,6 @@ I enjoy working with data to discover trends, identify patterns, and create visu
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
----
 
 ## 🚀 Skills & Expertise
 
@@ -66,16 +65,16 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Singh-dodiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
 
-# 🔥 Contribution Streak
+
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dilip-Singh-dodiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -83,15 +82,14 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ---
 
-# 📊 Contribution Activity
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Singh-dodiya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
----
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dilip-Singh-dodiya/Dilip-Singh-dodiya/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
@@ -172,7 +170,6 @@ Microsoft Excel
  ├── Xlookup
  └── Index-Match'''
 
----
 
  📊 GitHub Contribution Stats
 <p align="center">
@@ -202,12 +199,8 @@ Microsoft Excel
 
 </p>
 
----
-
 📧 Email: deepanshudodiya@gmail.com
-
----
 
 ## 💡 Quote
 "Data is the new oil, but insights are the real value."
----
+
