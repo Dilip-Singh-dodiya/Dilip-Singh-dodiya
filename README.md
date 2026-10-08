@@ -68,17 +68,17 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Singh-dodiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<p align="Left">
+<img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Singh-dodiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dilip-Singh-dodiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="Left">
+<img src="https://streak-stats.demolab.com?user=Dilip-Singh-dodiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
