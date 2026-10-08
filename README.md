@@ -1,7 +1,15 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-## 📊 DATA ANALYST | POWER BI | SQL | EXCEL | PYTHON ( NUMPY , PANDAS , MATPLOTLIB)
+![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-1F6FEB)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811)
+![SQL](https://img.shields.io/badge/SQL-336791)
+![Excel](https://img.shields.io/badge/EXCEL-217346)
+![Python](https://img.shields.io/badge/PYTHON-3776AB)
+![NumPy](https://img.shields.io/badge/NUMPY-013243)
+![Pandas](https://img.shields.io/badge/PANDAS-150458)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-E76F51)
+This gives you:
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -32,6 +40,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
+---
 
 ## 🚀 Skills & Expertise
 
@@ -46,6 +55,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
 
+---
 
 ### 💻 Tools & Technologies
 
@@ -106,7 +116,7 @@ An interactive **E-Commerce Business Intelligence Dashboard** designed to transf
 
 ### 🧰 Technologies
 
-`Power BI` `Data Analysis` `Data Visualization` `Business Intelligence`
+Power BI` `Data Analysis` `Data Visualization` `Business Intelligence`
 
 <p align="left">
   <a href="https://github.com/Dilip-Singh-dodiya/E-COMMERCE-DASHBOARD-POWER-BI-">
@@ -129,6 +139,7 @@ I'm continuously building new projects around:
 
 > More real-world projects will be added soon.
 
+---
 
 ## 📚 Currently Learning
 
@@ -160,6 +171,8 @@ Microsoft Excel
  ├── Xlookup
  └── Index-Match'''
 
+---
+
  📊 GitHub Contribution Stats
 <p align="center">
 
@@ -172,6 +185,8 @@ Microsoft Excel
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilip-Singh-dodiya&theme=tokyonight" />
 
 </p>
+
+---
 
 ## 🤝 Connect With Me
 <p align="left">
@@ -186,7 +201,12 @@ Microsoft Excel
 
 </p>
 
+---
+
 📧 Email: deepanshudodiya@gmail.com
+
+---
 
 ## 💡 Quote
 "Data is the new oil, but insights are the real value."
+---
