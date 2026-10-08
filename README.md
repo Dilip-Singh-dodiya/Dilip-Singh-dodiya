@@ -26,8 +26,6 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 
 ---
 
-# 🛠️ Skills & Technologies
-
 ### 📊 Data Analytics
 
 <p align="left">
