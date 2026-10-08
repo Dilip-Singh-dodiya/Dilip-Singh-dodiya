@@ -40,7 +40,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ETL-orange)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Dashboards-purple)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Power-BI-red)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Development-red)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
