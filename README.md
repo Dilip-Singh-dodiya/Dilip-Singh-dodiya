@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dilip Singh Dodiya
 
-### 📊 Data Analyst | Power BI | SQL | Excel
+## 📊 Data Analyst | Power BI | SQL | Excel
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -144,3 +144,32 @@ Data Analytics
  ├── Exploratory Data Analysis
  ├── Data Visualization
  └── Business Insights
+
+Microsoft Excel
+ ├── Data Cleaning
+ ├── Vlookupp
+ ├── Xlookup
+ └── Index-Match
+🤝 Connect With Me
+<p align="left">
+
+<a href="https://github.com/Dilip-Singh-dodiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+📧 Email: deepanshudodiya@gmail.com
+
+💡 Quote
+"Data is the new oil, but insights are the real value."
+
+📈 My GitHub Journey
+<p align="center">
+
+Building → Learning → Analyzing → Improving → Sharing
+</p>
