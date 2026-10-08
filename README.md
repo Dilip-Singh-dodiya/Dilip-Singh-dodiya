@@ -173,13 +173,13 @@ Microsoft Excel
 ---
 
  📊 GitHub Contribution Stats
-<p align="center">
+<p align="Left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 </p>
 
-<p align="center">
+<p align="Left">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilip-Singh-dodiya&theme=tokyonight" />
 
