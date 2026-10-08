@@ -73,7 +73,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Singh-dodiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-
+---
 
 ## 🔥 Contribution Streak
 
@@ -89,6 +89,7 @@ I enjoy working with data to discover trends, identify patterns, and create visu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Singh-dodiya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+---
 
 ## 🐍 Contribution Graph
 
@@ -113,6 +114,8 @@ An interactive **E-Commerce Business Intelligence Dashboard** designed to transf
 - 📊 KPIs & Business Metrics
 - 📅 Time-Based Sales Analysis
 - 🎯 Interactive Filters & Visualizations
+
+---
 
 ### 🧰 Technologies
 
@@ -171,6 +174,7 @@ Microsoft Excel
  ├── Xlookup
  └── Index-Match'''
 
+---
 
  📊 GitHub Contribution Stats
 <p align="center">
@@ -201,7 +205,7 @@ Microsoft Excel
 </p>
 
 📧 Email: deepanshudodiya@gmail.com
-
+---
 ## 💡 Quote
 "Data is the new oil, but insights are the real value."
 
