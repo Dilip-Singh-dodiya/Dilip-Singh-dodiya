@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/MATPLOTLIB-E76F51?style=flat-square" />
 </h3>
 
+---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Dilip-Singh-dodiya?label=Followers&style=flat" alt="Followers" />
