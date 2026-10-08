@@ -1,15 +1,15 @@
 #  👋Hi,
 #  I'm Dilip Singh Dodiya
 
-![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-1F6FEB)
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811)
-![SQL](https://img.shields.io/badge/SQL-336791)
-![Excel](https://img.shields.io/badge/EXCEL-217346)
-![Python](https://img.shields.io/badge/PYTHON-3776AB)
-![NumPy](https://img.shields.io/badge/NUMPY-013243)
-![Pandas](https://img.shields.io/badge/PANDAS-150458)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-E76F51)
-This gives you:
+## ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-1F6FEB)
+## ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811)
+## ![SQL](https://img.shields.io/badge/SQL-336791)
+## ![Excel](https://img.shields.io/badge/EXCEL-217346)
+## ![Python](https://img.shields.io/badge/PYTHON-3776AB)
+## ![NumPy](https://img.shields.io/badge/NUMPY-013243)
+## ![Pandas](https://img.shields.io/badge/PANDAS-150458)
+## ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-E76F51)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
