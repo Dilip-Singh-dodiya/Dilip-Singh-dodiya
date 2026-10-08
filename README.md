@@ -53,10 +53,10 @@ GitHub's Markdown rendering can be inconsistent with HTML highlighting. A **badg
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ETL-orange)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Dashboards-purple)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Power-BI-red)
-<span style="background-color:#3776AB; color:white; padding:5px 10px; border-radius:5px;">🐍 Python</span>
-<span style="background-color:#150458; color:white; padding:5px 10px; border-radius:5px;">🐼 Pandas</span>
-<span style="background-color:#4D77CF; color:white; padding:5px 10px; border-radius:5px;">🔢 NumPy</span>
-<span style="background-color:#E76F51; color:white; padding:5px 10px; border-radius:5px;">📊 Matplotlib</span>
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
 
 
 If your goal is **highlighted text like a yellow marker**, I'd use `<mark>Power BI</mark>` first.
