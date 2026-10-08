@@ -1,5 +1,6 @@
-#      👋 Hi,
-#  I'm Dilip Singh Dodiya
+#  👋 Hi,
+#  I'm 
+#  Dilip Singh Dodiya
 
 ## 📊 Data Analyst | Power BI | SQL | Excel
 
@@ -46,8 +47,6 @@ I enjoy working with data to discover trends, identify patterns, and create visu
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
 
-
-If your goal is **highlighted text like a yellow marker**, I'd use `<mark>Power BI</mark>` first.
 
 ### 💻 Tools & Technologies
 
