@@ -1,25 +1,146 @@
-<h1 align="center">Hi 👋, I'm Dilip Singh Dodiya</h1>
-<h3 align="center">Data Analyst</h3>
+# 👋 Hi, I'm Dilip Singh Dodiya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilip-singh-dodiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilip-singh-dodiya" /> </p>
+### 📊 Data Analyst | Power BI | SQL | Excel
 
-- 🔭 I’m currently working on [E-Commerce Dashboard](https://github.com/Dilip-Singh-dodiya/E-COMMERCE-DASHBOARD-POWER-BI-)
-
-- 🌱 I’m currently learning **Data analyst ,SQL**
-
-- 💬 Ask me about **Data Analyst**
-
-- 📫 How to reach me **deepanshudodiya@gmail.com**
-
-- ⚡ Fun fact **Analysis insights**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/dilip-singh-dodiya-8025b436b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dilip-singh-dodiya-8025b436b" height="30" width="40" /></a>
-<a href="https://instagram.com/deepanshu_banna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepanshu_banna" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dilip-Singh-dodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dilip-Singh-dodiya?label=Followers&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dilip-Singh-dodiya?label=Total%20Stars&style=flat" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-singh-dodiya&show_icons=true&locale=en&layout=compact" alt="dilip-singh-dodiya" /></p>
+## 🧑‍💻 About Me
+
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and interactive dashboards.
+
+I enjoy working with data to discover trends, identify patterns, and create visualizations that help businesses make better decisions.
+
+- 🔭 Currently working on **E-Commerce Data Analysis & Power BI Dashboards**
+- 🌱 Currently learning **Advanced SQL, Data Analytics & Business Intelligence**
+- 📊 Interested in **Data Visualization, Business Analytics & Decision Making**
+- 💡 I enjoy converting complex datasets into simple, actionable insights
+- 🎯 Goal: Build real-world data analytics projects and continuously improve my analytical skills
+- 💬 Ask me about **Power BI, SQL, Excel & Data Analytics**
+
+---
+
+# 🛠️ Skills & Technologies
+
+### 📊 Data Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+**Data & BI Tools**
+
+`Power BI` `Microsoft Excel` `SQL` `Data Cleaning` `Data Visualization` `Dashboard Development` `Business Intelligence`
+
+### 💻 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Singh-dodiya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Singh-dodiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dilip-Singh-dodiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Singh-dodiya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dilip-Singh-dodiya/Dilip-Singh-dodiya/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 E-Commerce Dashboard — Power BI
+
+An interactive **E-Commerce Business Intelligence Dashboard** designed to transform raw sales data into actionable business insights.
+
+### 🔍 Key Analysis
+
+- 📈 Sales & Revenue Analysis
+- 🛍️ Product Performance
+- 👥 Customer Analysis
+- 🌍 Regional Performance
+- 📊 KPIs & Business Metrics
+- 📅 Time-Based Sales Analysis
+- 🎯 Interactive Filters & Visualizations
+
+### 🧰 Technologies
+
+`Power BI` `Data Analysis` `Data Visualization` `Business Intelligence`
+
+<p align="left">
+  <a href="https://github.com/Dilip-Singh-dodiya/E-COMMERCE-DASHBOARD-POWER-BI-">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📌 More Projects
+
+I'm continuously building new projects around:
+
+| Project | Technology | Status |
+|---|---|---|
+| 🛒 E-Commerce Dashboard | Power BI | ✅ Completed |
+| 📊 Sales Analytics Dashboard | Power BI / SQL | 🔨 Building |
+| 👥 Customer Analytics | SQL / Excel | 🔨 Building |
+| 📈 Business Performance Dashboard | Power BI | 📚 Planned |
+
+> More real-world projects will be added soon.
+
+---
+
+# 📚 Currently Learning
+
+```text
+SQL
+ ├── Advanced Queries
+ ├── Joins
+ ├── Subqueries
+ ├── CTEs
+ ├── Window Functions
+ └── Data Analysis
+
+Power BI
+ ├── Data Modeling
+ ├── DAX
+ ├── Power Query
+ ├── Interactive Dashboards
+ └── Business Intelligence
+
+Data Analytics
+ ├── Data Cleaning
+ ├── Exploratory Data Analysis
+ ├── Data Visualization
+ └── Business Insights
